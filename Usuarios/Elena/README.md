@@ -1,56 +1,50 @@
-# 📖 Perfil de Usuario: **[Tu Nombre o Apodo]**
+# 📖 Perfil de usuario: **Helen**
 
 ---
 
-## 🪄 Sobre Mí  
-- **Nombre:** [Tu Nombre o Apodo]  
-- **Edad:** [Opcional]  
-- **Mi Casa de Hogwarts:** 🦁 Gryffindor | 🐍 Slytherin | 🦅 Ravenclaw | 🦡 Hufflepuff  
-- **Lector/a desde:** [Año en el que empezaste a amar los libros]  
-- **Géneros Favoritos:** [Fantasía, Misterio, Romance, Ciencia Ficción, etc.]  
-- **Mi Libro Favorito:** [Título de tu libro favorito]  
-- **Personaje Literario Preferido:** [Nombre del personaje]  
+## 🪄 Sobre mí  
+- **Nombre:** Elena
+- **Edad:** 30  
+- **Mi Casa de Hogwarts:** 🦡 Hufflepuff  
+- **Lectora desde:** Desde los 12.
+- **Géneros Favoritos:** Fantasía, Misterio, Romance, Romantasy, Policiaca.
+- **Mi Libro Favorito:** Todas las criaturas oscuras  
+- **Personaje Literario Preferido:** Poppy
 
 ---
 
-## 📚 Estado Actual  
-- **Libros que estoy leyendo:**  
-  1. *[Título del libro]* — [Autor]  
-  2. *[Título del libro]* — [Autor]  
-
-- **Último libro leído:**  
-  *[Título del libro]* — [Autor]  
-
-- **Próximos libros en mi lista:**  
-  1. *[Título del libro]* — [Autor]  
-  2. *[Título del libro]* — [Autor]  
-
----
-
-## ✍️ Mis Reseñas  
-| **Libro**              | **Puntuación** | **Fecha de la Reseña** |
+## ✍️ Mis reseñas  
+| **Libro**              | **Puntuación** | **Fecha de la reseña** |
 |-------------------------|----------------|------------------------|
-| *[Título del libro]*    | ⭐⭐⭐⭐          | [DD/MM/AAAA]          |
-| *[Título del libro]*    | ⭐⭐⭐⭐⭐         | [DD/MM/AAAA]          |
-| *[Título del libro]*    | ⭐⭐⭐           | [DD/MM/AAAA]          |
+| *Flawless*              | ⭐⭐⭐⭐          | 24/11/2024         |
+| *Una corte de alas y ruina*| ⭐⭐⭐⭐       | 21/10/2024          |
+| *La paciente silenciosa*| ⭐⭐⭐⭐         | 09/09/2024          |
 
 ---
 
-## ✨ Mi Contribución al Club  
-- **Club de lectura:** Soy miembro del grupo *[Nombre del grupo en el club]*.  
+## ✨ Mi contribución al club  
+- **Club de lectura:** Soy miembro del grupo *La Sección Prohibida de Hogwarts*.  
 - **Tareas recientes:**  
   - 📝 Revisé la lista de libros compartidos.  
-  - 💬 Participo activamente en las discusiones sobre *[Libro actual del club]*.  
-  - 📑 Añadí mi reseña de *[Título del libro]* al archivo compartido.  
+  - 💬 Participo activamente en las discusiones sobre *Un rincón en Velaris*.  
+  - 📑 Añadí mi reseña de *Flawless* al archivo compartido.  
 
 ---
 
 ## 🌟 Mensaje para el Club  
-*"Leer es como abrir una puerta a otra dimensión. ¡Que nunca nos falten llaves!"*
+*"Cada libro es un hechizo que nos transporta a mundos inimaginables. ¡Nunca dejemos de conjurar aventuras!"*
 
 ---
 
-**🧙‍♂️ Firma:** *[Tu Nombre o Apodo]*  
+## 💬 Contacto
+- **Correo electrónico**: elemesreq@alumnos.ilerna.com
+- **Redes sociales**:
+  - [Instagram](https://www.instagram.com/kame.books)
+
+---
+
+
+**🧙‍♂️ Firma:** *Helen*  
 
   
 

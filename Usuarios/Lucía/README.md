@@ -3,13 +3,13 @@
 ---
 
 ## 🪄 Sobre mí  
-**Nombre:** Lucía del Toro 
-**Edad:** 23
-**Mi casa de Hogwarts:** 🦅 Ravenclaw 
-**Lectora desde:** 2010 
-**Géneros favoritos:** Fantasía, Misterio, Romance
-**Mi libro favorito:** Binding 13
-**Personaje literario preferido:** Celaena Sardothien  
+- **Nombre:** Lucía del Toro 
+- **Edad:** 23
+- **Mi casa de Hogwarts:** 🦅 Ravenclaw 
+- **Lectora desde:** 2010 
+- **Géneros favoritos:** Fantasía, Misterio, Romance
+- **Mi libro favorito:** Binding 13
+- **Personaje literario preferido:** Celaena Sardothien  
 
 ---
 

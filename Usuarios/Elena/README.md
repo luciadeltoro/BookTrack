@@ -3,10 +3,11 @@ Hola, soy Elena y me encanta leer Fantasia, Romantasi y Romcom, pero de vez en c
 
 ## Top 5 de mis Libros Favoritos de 2024
 
-- Libro 1
-- Libro
-- Libro
-- Libro
+- Todas las Criaturas oscuras
+- Una Corte de Niebla y Furia
+- Powerless
+- Flawless
+- Un Reino de Carne y Fuego
   
 
   

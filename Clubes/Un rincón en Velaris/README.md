@@ -41,4 +41,11 @@ Somos un grupo de lectores apasionados inspirados por la magia de Velaris, "la C
    Debes acceder al archivo llamado "Miembros.md" que encontrarás en la carpeta del club. Una vez dentro, agrega tu nombre a la lista de miembros y compártenos cuál es tu libro favorito del universo de Sarah J Maas. Ejemplo:
    - [Tu Nombre]: Me encanta Reino de Cenizas, el último libro de la saga Trono de Cristal.
 
-    ❗❗❗ Recuerda que todo lo que escribas estar en Markdown.
+---
+
+## ❗ Normas del club
+
+   - Debes tratar con respeto a todos los miembros de la comunidad. No toleramos los insultos ni las faltas de respeto, si detectamos algo fuera de lo normal, serás expulsado del club.
+   - Recuerda que debes escribir usando MarkDown para poder participar en las actividades que se hagan en el club.
+   - No está permitido hacer spam, cuida nuestra comunidad.
+   - Este club está destinado exclusivamente para las sagas de la escritora Sarah J. Maas, cualquier debate o discusión de un libro ajeno a este universo, será eliminado. La única excepción a esta norma son los desafíos temáticos del apartado "Retos Literarios", donde se pueden recomendar libros ajenos.

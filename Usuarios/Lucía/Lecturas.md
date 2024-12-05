@@ -1,11 +1,12 @@
-# Perfil de Lucía
+## 📚 Mis lecturas
 
-## Libros Leídos
-### 2024
-   - ???
+**Libros que estoy leyendo:**  
+  1. [Título del libro] — [Autor]  
+  2. [Título del libro] — [Autor]  
 
-## Libros Leyendo
-   - ???
+**Último libro leído:**  
+  [Título del libro] — [Autor]  
 
-## Libros Pendientes
-   - ???
+**Próximos libros en mi lista:**  
+  1. [Título del libro] — [Autor]  
+  2. [Título del libro] — [Autor]  

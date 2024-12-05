@@ -1,27 +1,43 @@
-## Información Personal
-   - **Nombre completo**: Lucía del Toro
-   - **Edad**: 23 años
-   - **Ubicación**: Sevilla, España
-   - **Ocupación**: estudiante de Desarrollo de Aplicaciones Multiplataforma
+# 📖 Perfil de usuario de **Lucía**
 
-## Libros Favoritos
-   - *Una Corte de Niebla y Furia* de Sarah J. Maas
-   - *La Serpiente y las Alas de la Noche* de Carissa Broadbent
-   - *Binding 13* de Chloe Walsh
-   - *Trono de Cristal* de Sarah J. Maas
-   - *La Sombra del Viento* de Carlos Ruiz Zafón
-   - *La Asistenta* de Freida McFadden
+---
 
-## Géneros Preferidos
-   - Fantasía
-   - Romance
-   - Misterio
+## 🪄 Sobre mí  
+**Nombre:** Lucía del Toro 
+**Edad:** 23
+**Mi casa de Hogwarts:** 🦅 Ravenclaw 
+**Lectora desde:** 2010 
+**Géneros favoritos:** Fantasía, Misterio, Romance
+**Mi libro favorito:** Binding 13
+**Personaje literario preferido:** Celaena Sardothien  
 
-## Contacto
+---
+
+## ✍️ Mis últimas reseñas  
+| **Libro**              | **Puntuación** | **Fecha de la reseña** |
+|-------------------------|----------------|------------------------|
+| La serpiente y las alas de la noche    | ⭐⭐⭐⭐          | 19/10/2024          |
+| Binding 13    | ⭐⭐⭐⭐⭐         | 3/11/2024          |
+| No confíes en Asher Hall    | ⭐⭐⭐           | 20/11/2024          |
+
+---
+
+## ✨ Mi contribución al club  
+**Club de lectura:** Soy miembro del club de lectura Un rincón en Velaris.  
+**Tareas recientes:**  
+  - 📝 Propuse un nuevo reto para el mes de diciembre.  
+  - 💬 Estoy haciendo lectura conjunta de ACOTAR con varios miembros.  
+  - 📑 Añadí mi reseña de ACOTAR.  
+
+---
+
+## 💬 Contacto
 - **Correo electrónico**: luciadtl@alumnos.ilerna.com
 - **Redes sociales**:
   - [Instagram](https://www.instagram.com/luciadeltooro)
 
 ---
+
+**🧙‍♂️ Firma:** *Lucy*
 
 > "Un lector vive mil vidas antes de morir, el que no lee, solo vive una." – George R. R. Martin

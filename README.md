@@ -14,6 +14,7 @@ Para más información, consulta el archivo "?" que encontrarás dentro de la ca
 
 **¿Cómo puedo crearme un perfil?**  
 Una vez hayas descargado el repositorio, deberás entrar en la carpeta "Usuarios" y crear una carpeta con tu nombre. Dentro de tu carpeta, crea un archivo README.md para modificar los datos tu perfil y otro archivo Lecturas.md para actualizar tus lecturas.
+
 Para más información, consulta el archivo "?" que encontrarás dentro de la carpeta "Instrucciones y reglas".
 
 **¿Qué es Markdown?**  
@@ -30,6 +31,7 @@ Las puedes encontrar en el archivo "Plantillas.md" que se encuentra dentro de la
 
 **¿Tengo que pedir permiso para crear un nuevo club?**  
 No, puedes crearlo sin necesidad de pedir permiso. Antes de que tu club se añada al repositorio, será revisado por un moderador para confirmar que esté todo en orden. En caso de que haya algún problema, se rechazará la pull request explicando el por qué.
+
 Para más información, consulta el archivo "?" que encontrarás dentro de la carpeta "Instrucciones y reglas".
 
 **He tenido un problema con otro miembro, ¿cómo puedo denunciarlo?**  

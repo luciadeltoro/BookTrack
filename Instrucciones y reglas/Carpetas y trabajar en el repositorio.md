@@ -7,12 +7,12 @@
 
 2. **Crea tu carpeta personal:**
    - Haz clic en `Usuarios` y después en el icono de carpeta (`New Folder`) ubicado a la derecha de `BookTrack`.
-   - Nombra tu carpeta con tu nombre.
+   - Nombra tu carpeta con tu nombre, (si hay ya una carpeta con tu nombre, añade tu apellido o usa un apodo).
 
 ## 📝 Crear los archivos necesarios
 Dentro de tu carpeta personal debes crear los siguientes archivos:  
 - `README.md`: Este archivo será tu presentación personal.  
-- `Lecturas.md`: Aquí registrarás tus lecturas y reseñas.  
+- `Lecturas.md`: Aquí registrarás tus lecturas.  
 > 📄 **Nota:** Puedes encontrar plantillas para estos archivos en la carpeta llamada `Plantillas`.
 
 ## 🚀 Subir los cambios al repositorio

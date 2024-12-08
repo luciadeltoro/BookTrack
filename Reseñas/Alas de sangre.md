@@ -15,3 +15,5 @@ El momento en que Violet finalmente establece su vínculo con el dragón fue ép
 
 #### Conclusión 
 Alas de Sangre es una lectura imprescindible para los amantes de la fantasía y el romance. Con una trama rica, personajes inolvidables y un mundo construido con gran detalle, este libro es una experiencia que no querrás perderte. ¡Altamente recomendado!
+
+#### Reseña de Helen

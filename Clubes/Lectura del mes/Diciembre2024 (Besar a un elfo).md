@@ -11,7 +11,7 @@
 1. **Noviembre 2024:**
    - Libro: *La serpiente y las alas de la noche* - Carissa Broadbent
    - Fecha de discusión: 01/12/2024
-   - Resumen: [Ver reseña aquí](Besar%20a%20un%20elfo-Diciembre2024.md)
+   - Resumen: [Ver reseña aquí](../../Reseñas/La%20serpiente%20y%20las%20alas%20de%20la%20noche.md)
 
 ---
 

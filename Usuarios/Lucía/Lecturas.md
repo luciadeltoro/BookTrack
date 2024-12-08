@@ -5,7 +5,7 @@
   2. Mi oscuro Romeo — Parker S. Huntington y L.J. Shen  
 
 **Último libro leído:**  
-  No confíes en Asher Hall — Myriam M. Lejardi  
+  [No confíes en Asher Hall](../../Reseñas/No%20confíes%20en%20Asher%20Hall.md#reseña-de-lucía) — Myriam M. Lejardi  
 
 **Próximos libros en mi lista:**  
   1. Larga vida al mal — Sarah Rees Brennan  

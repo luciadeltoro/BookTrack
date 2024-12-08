@@ -1,6 +1,8 @@
 ### **La serpiente y las alas de la noche**  
 - **Autor:** Carissa Broadbent
-- **Género:** Fantasía, Romance.  
+- **Género:** Fantasía, Romance.
+
+#### Reseña de Lucía   
 - **Puntuación:** ⭐⭐⭐⭐  
 
 #### Resumen breve  
@@ -18,5 +20,3 @@ Otra cosa que no me esperaba para nada es que al final ella no fuese hija adopti
 
 #### Conclusión  
 Es un libro muy entretenido y, aunque el comienzo sea lento, una vez que te atrapa no puedes soltarlo, así que lo recomendaría sin duda alguna.
-
-#### Reseña de Lucía

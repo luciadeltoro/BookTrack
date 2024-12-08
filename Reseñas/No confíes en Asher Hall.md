@@ -1,6 +1,8 @@
 ### **No confies en Asher Hall**
 - **Autor:** Myriam M. Lejardi
 - **Género:** Young Adult, Romance, Misterio
+
+#### Reseña de Helen
 - **Puntuación:**  ⭐⭐⭐⭐☆
 
 #### Resumen Breve
@@ -16,9 +18,8 @@ El momento en que Asher confiesa la verdad sobre su pasado fue muy intenso. Tamb
 #### Conclusión 
 Es un libro perfecto para quienes disfrutan del género Young Adult con un toque de romance y misterio. Si buscas una lectura ágil, entretenida y con personajes imperfectos pero reales, esta novela es una gran opción. ¡Muy recomendado!
 
-#### Reseña de Helen
-
 ---
+#### Reseña de Lucía
 - **Puntuación:**  ⭐⭐⭐
 
 #### Resumen Breve
@@ -33,5 +34,3 @@ El momento en la piscina en el que Remi traiciona a Asher, yo suponía que serí
 
 #### Conclusión 
 Es un libro cortito, fácil de leer y con una historia muy original. A pesar de sus pequeños fallos, siento que es un libro que todo el mundo puede disfrutar leyendo.
-
-#### Reseña de Lucía

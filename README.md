@@ -4,35 +4,35 @@
 ---
 ## FAQ
 **¿Cómo puedo descargar el repositorio?**  
-1. Abre Visual Studio Code e instala la extensión "GitHub Pull Request".
-2. Escribe el comando: Shift ⇧ + Command ⌘ + P (para Mac) / Control + Shift ⇧ + P (para Windows).
+1. Abre Visual Studio Code e instala la extensión **GitHub Pull Request**.
+2. Escribe el comando: `Shift ⇧ + Command ⌘ + P` (para Mac) / `Control + Shift ⇧ + P` (para Windows).
 3. Copia el siguiente comando y pégalo en la barra de búsqueda:
 ```bash
 git clone https://github.com/luciadeltoro/BookTrack.git 
 ```
-Para más información, consulta el archivo "?" que encontrarás dentro de la carpeta "Instrucciones y reglas".
+Para más información, consulta el archivo `?` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **¿Cómo puedo crearme un perfil?**  
-Una vez hayas descargado el repositorio, deberás entrar en la carpeta "Usuarios" y crear una carpeta con tu nombre. Dentro de tu carpeta, crea un archivo README.md para modificar los datos tu perfil y otro archivo Lecturas.md para actualizar tus lecturas.
+Una vez hayas descargado el repositorio, deberás entrar en la carpeta `Usuarios` y crear una carpeta con tu nombre. Dentro de tu carpeta, crea un archivo `README.md` para modificar los datos tu perfil y otro archivo `Lecturas.md` para actualizar tus lecturas.
 
-Para más información, consulta el archivo "?" que encontrarás dentro de la carpeta "Instrucciones y reglas".
+Para más información, consulta el archivo `Cómo trabajar en el repositorio.md` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **¿Qué es Markdown?**  
-Markdown es un lenguaje de marcado ligero. Todos los archivos de este repositorio deberán usar este lenguaje. Encontrarás instrucciones sobre cómo usarlo en el archivo "Markdown.md" que se encuentra dentro de la carpeta "Instrucciones y reglas".
+Markdown es un lenguaje de marcado ligero. Todos los archivos de este repositorio deberán usar este lenguaje. Encontrarás instrucciones sobre cómo usarlo en el archivo `Markdown.md` que se encuentra dentro de la carpeta `Instrucciones y reglas`.
 
 **¿Se puede usar un lenguaje distinto a Markdown?**  
 No, este repositorio utiliza única y exclusivamente Markdown.
 
 **¿Puedo crear una carpeta de usuario con el mismo nombre que otro miembro?**  
-No, cada miembro debe crear una carpeta con un nombre distinto para poder diferenciarlas. Si ya hay una carpeta con el nombre que querías usar, deberás cambiar el nombre poniendo, por ejemplo, "NombreApellidos" o "Apodo".
+No, cada miembro debe crear una carpeta con un nombre distinto para poder diferenciarlas. Si ya hay una carpeta con el nombre que querías usar, deberás cambiar el nombre poniendo, por ejemplo, `NombreApellidos` o `Apodo`.
 
 **¿Dónde encuentro las plantillas para crear mi perfil y para poner mis lecturas y reseñas?**  
-Las puedes encontrar en el archivo "Plantillas.md" que se encuentra dentro de la carpeta "Instrucciones y reglas".
+Las puedes encontrar dentro de la carpeta `Plantillas.md` que se encuentra en de la carpeta `Instrucciones y reglas`.
 
 **¿Tengo que pedir permiso para crear un nuevo club?**  
 No, puedes crearlo sin necesidad de pedir permiso. Antes de que tu club se añada al repositorio, será revisado por un moderador para confirmar que esté todo en orden. En caso de que haya algún problema, se rechazará la pull request explicando el por qué.
 
-Para más información, consulta el archivo "?" que encontrarás dentro de la carpeta "Instrucciones y reglas".
+Para más información, consulta el archivo `?` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **He tenido un problema con otro miembro, ¿cómo puedo denunciarlo?**  
 Tienes dos opciones:

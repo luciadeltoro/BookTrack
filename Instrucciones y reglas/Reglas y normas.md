@@ -7,5 +7,5 @@
 6. **No crear carpetas a lo loco**: Sigue las intrucciones que encuentres y no crees carpetas inecesarias.
 7. **No modifiques datos ajenos**: Respeta las creaciones de los demas y sus datos personales.
 8. **No eliminar archivos ni carpetas**: No lo hagas sin el consentimiento de un moderador.
-9. **Porpon mejoras**: Si tienes propuestas de mejoras o crees que el BookTrack funcionaria mejor añadiendo o eliminando algo, contacta con nosotras abriendo `issue`.
+9. **Porpon mejoras**: Si tienes propuestas de mejoras o crees que el BookTrack funcionaria mejor añadiendo o eliminando algo, contacta con nosotras abriendo `issue`. (Abre un *New issue* en el apartado *Issues* que encontrarás dentro del repositorio en GitHub y explícanos el problema. Cuando hayas terminado, haz clic en *Submit New Issue* y nos encargaremos de ello lo antes posible.)
 ---

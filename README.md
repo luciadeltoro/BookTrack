@@ -4,13 +4,13 @@
 ---
 ## FAQ
 **¿Cómo puedo descargar el repositorio?**  
-1. Abre Visual Studio Code e instala la extensión **GitHub Pull Request**.
+1. Abre Visual Studio Code e instala la extensión **GitHub Pull Request y GitLens**.
 2. Escribe el comando: `Shift ⇧ + Command ⌘ + P` (para Mac) / `Control + Shift ⇧ + P` (para Windows).
 3. Copia el siguiente comando y pégalo en la barra de búsqueda:
 ```bash
 git clone https://github.com/luciadeltoro/BookTrack.git 
 ```
-Para más información, consulta el archivo `?` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
+Para más información, consulta el archivo `Cómo trabajar en el repositorio` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **¿Cómo puedo crearme un perfil?**  
 Una vez hayas descargado el repositorio, deberás entrar en la carpeta `Usuarios` y crear una carpeta con tu nombre. Dentro de tu carpeta, crea un archivo `README.md` para modificar los datos tu perfil y otro archivo `Lecturas.md` para actualizar tus lecturas.
@@ -32,7 +32,7 @@ Las puedes encontrar dentro de la carpeta `Plantillas.md` que se encuentra en de
 **¿Tengo que pedir permiso para crear un nuevo club?**  
 No, puedes crearlo sin necesidad de pedir permiso. Antes de que tu club se añada al repositorio, será revisado por un moderador para confirmar que esté todo en orden. En caso de que haya algún problema, se rechazará la pull request explicando el por qué.
 
-Para más información, consulta el archivo `?` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
+Para más información, consulta el archivo `Cómo crear un club de lectura` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **He tenido un problema con otro miembro, ¿cómo puedo denunciarlo?**  
 Tienes dos opciones:

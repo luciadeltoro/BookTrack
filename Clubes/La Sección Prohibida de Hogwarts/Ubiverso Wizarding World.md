@@ -1,6 +1,6 @@
-# Club de Lectura: Clásicos Modernos
+# Club de Lectura: La sección prohivida de Hogwarts
 
-## Lista de Libros Compartida
+## Lista de Libros
 1. *Harry Potter y la piedra filosofal* - J. K. Rowling
 2. *Harry Potter y la camara secreta* - J. K. Rowling
 3. *Harry Potter y el prisionero de Azcaban* - J. K. Rowling

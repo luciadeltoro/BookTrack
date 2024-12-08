@@ -1,6 +1,6 @@
 # Club de Lectura: Un rincón en Velaris
 
-## Lista de Libros Compartida
+## Lista de Libros
 1. *Una corte de rosas y espinas* - Sarah J. Maas
 2. *Una corte de niebla y furia* - Sarah J. Maas
 3. *Una corte de alas y ruina* - Sarah J. Maas

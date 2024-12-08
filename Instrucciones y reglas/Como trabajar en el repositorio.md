@@ -17,7 +17,8 @@ Dentro de tu carpeta personal debes crear los siguientes archivos:
 
 ## 🚀 Subir los cambios al repositorio
 1. **Realiza un commit:**  
-   Después de crear o modificar un archivo, guarda los cambios con un commit. Asegúrate de incluir una breve descripción de lo que has añadido o cambiado.  
+   Después de crear o modificar un archivo, guarda los cambios con un commit. 
+   - Ve a la barra lateral izquierda y clica en `Source Control` Asegúrate de incluir una breve descripción de lo que has añadido o cambiado.  
    - Ejemplo: Si acabas de crear tu archivo `README.md`, el mensaje del commit podría ser:  
      `Creando README - [Tu Nombre]`  
    - Otro ejemplo: Si creas el archivo `Lecturas.md`, el mensaje sería algo como:  

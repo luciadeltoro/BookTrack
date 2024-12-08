@@ -15,3 +15,5 @@ El momento en que Asher confiesa la verdad sobre su pasado fue muy intenso. Tamb
 
 #### Conclusión 
 Es un libro perfecto para quienes disfrutan del género Young Adult con un toque de romance y misterio. Si buscas una lectura ágil, entretenida y con personajes imperfectos pero reales, esta novela es una gran opción. ¡Muy recomendado!
+
+#### Reseña de Helen

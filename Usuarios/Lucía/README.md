@@ -16,9 +16,9 @@
 ## ✍️ Mis últimas reseñas  
 | **Libro**              | **Puntuación** | **Fecha de la reseña** |
 |-------------------------|----------------|------------------------|
-| [La serpiente y las alas de la noche](../../Reseñas/La%20serpiente%20y%20las%20alas%20de%20la%20noche.md)    | ⭐⭐⭐⭐          | 19/10/2024          |
+| [La serpiente y las alas de la noche](../../Reseñas/La%20serpiente%20y%20las%20alas%20de%20la%20noche.md)    | ⭐⭐⭐⭐☆        | 19/10/2024          |
 | Binding 13    | ⭐⭐⭐⭐⭐         | 3/11/2024          |
-| [No confíes en Asher Hall](../../Reseñas/No%20confíes%20en%20Asher%20Hall.md)    | ⭐⭐⭐           | 20/11/2024          |
+| [No confíes en Asher Hall](../../Reseñas/No%20confíes%20en%20Asher%20Hall.md)    | ⭐⭐⭐☆☆           | 20/11/2024          |
 
 ---
 

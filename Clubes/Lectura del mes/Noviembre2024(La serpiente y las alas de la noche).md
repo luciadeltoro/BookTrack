@@ -9,9 +9,9 @@
 
 ## 🗒️ Reuniones pasadas
 1. **Noviembre 2024:**
-   - Libro: *La princesa prometida* - William Goldman
+   - Libro: *No confies en Asher Hall* - Myriam M. Lejardi
    - Fecha de discusión: 30/11/2024
-   - Resumen: [Ver reseña aquí](Reseñas/Resumen_Noviembre.md)
+   - Resumen: [Ver reseña aquí](C:\Users\Gabri\Desktop\repositorio\BookTrack\Reseñas)
 
 ---
 

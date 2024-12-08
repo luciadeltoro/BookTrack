@@ -1,0 +1,1 @@
+Explicar cómo crear un club, la estructura que debe seguir y las normas para que el club sea aceptado.

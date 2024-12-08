@@ -1,33 +1,19 @@
-# 📖 Perfil de Usuario: **[Tu Nombre o Apodo]**
+# 📖 Perfil de usuario: **[Tu Nombre o Apodo]**
 
 ---
 
-## 🪄 Sobre Mí  
+## 🪄 Sobre mí  
 - **Nombre:** [Tu Nombre o Apodo]  
 - **Edad:** [Opcional]  
-- **Mi Casa de Hogwarts:** 🦁 Gryffindor | 🐍 Slytherin | 🦅 Ravenclaw | 🦡 Hufflepuff  
+- **Mi casa de Hogwarts:** 🦁 Gryffindor | 🐍 Slytherin | 🦅 Ravenclaw | 🦡 Hufflepuff  
 - **Lector/a desde:** [Año en el que empezaste a amar los libros]  
-- **Géneros Favoritos:** [Fantasía, Misterio, Romance, Ciencia Ficción, etc.]  
-- **Mi Libro Favorito:** [Título de tu libro favorito]  
-- **Personaje Literario Preferido:** [Nombre del personaje]  
+- **Géneros favoritos:** [Fantasía, Misterio, Romance, Ciencia Ficción, etc.]  
+- **Mi libro favorito:** [Título de tu libro favorito]  
+- **Personaje literario preferido:** [Nombre del personaje]  
 
 ---
 
-## 📚 Estado Actual  
-- **Libros que estoy leyendo:**  
-  1. *[Título del libro]* — [Autor]  
-  2. *[Título del libro]* — [Autor]  
-
-- **Último libro leído:**  
-  *[Título del libro]* — [Autor]  
-
-- **Próximos libros en mi lista:**  
-  1. *[Título del libro]* — [Autor]  
-  2. *[Título del libro]* — [Autor]  
-
----
-
-## ✍️ Mis Reseñas  
+## ✍️ Mis reseñas  
 | **Libro**              | **Puntuación** | **Fecha de la Reseña** |
 |-------------------------|----------------|------------------------|
 | *[Título del libro]*    | ⭐⭐⭐⭐          | [DD/MM/AAAA]          |
@@ -36,8 +22,8 @@
 
 ---
 
-## ✨ Mi Contribución al Club  
-- **Club de lectura:** Soy miembro del grupo *[Nombre del grupo en el club]*.  
+## ✨ Mi contribución al club  
+- **Club de lectura:** Soy miembro del club *[Nombre del club de lectura]*.  
 - **Tareas recientes:**  
   - 📝 Revisé la lista de libros compartidos.  
   - 💬 Participo activamente en las discusiones sobre *[Libro actual del club]*.  
@@ -45,7 +31,7 @@
 
 ---
 
-## 🌟 Mensaje para el Club  
+## 🌟 Mensaje para el club  
 *"Leer es como abrir una puerta a otra dimensión. ¡Que nunca nos falten llaves!"*
 
 ---

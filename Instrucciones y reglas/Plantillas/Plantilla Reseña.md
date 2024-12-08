@@ -1,19 +1,19 @@
-### **El Prisionero de Azkaban**  
-- **Autor:** J.K. Rowling  
-- **Género:** Fantasía  
-- **Puntuación:** ⭐⭐⭐⭐⭐  
+### **Título del libro**  
+- **Autor:** Nombre del autor 
+- **Género:** Fantasía, Romance, Misterio, etc.  
+- **Puntuación:** [⭐], [⭐⭐], [⭐⭐⭐], [⭐⭐⭐⭐], [⭐⭐⭐⭐⭐]  
 
-#### Resumen Breve  
-En este libro, Harry Potter enfrenta nuevos desafíos mientras descubre un oscuro secreto relacionado con su familia. Con la ayuda de sus amigos, intenta protegerse de los dementores mientras desentraña la verdad sobre Sirius Black, un misterioso fugitivo.  
+#### Resumen breve  
+Escribe un pequeño resumen sobre la trama del libro.
 
-#### Opinión Personal  
-Me encantó el giro de la historia relacionado con el giratiempo y cómo se exploran temas de lealtad y traición. El libro tiene un ritmo excelente, y cada capítulo añade algo significativo. Sin embargo, me habría gustado más profundidad en los personajes secundarios.  
+#### Opinión personal  
+Escribe tu opinión subjetiva del libro, lo que más te ha gustado, lo que menos, tu personaje favorito, etc. 
 
-#### Momentos Favoritos (⚠️ Spoiler Alert)  
-⚠️ **Spoiler Alert**  
-El momento en que Harry conjura el patronus es inolvidable. Fue muy emotivo verlo enfrentarse a sus miedos.  
+#### Momentos favoritos (⚠️ Spoiler alert)  
+⚠️ **Spoiler alert**  
+Escribe cúal ha sido tu momento favorito del libro.  
 
 #### Conclusión  
-Es un libro imprescindible para los fans de Harry Potter y para cualquiera que disfrute de historias mágicas con un toque de intriga. ¡Totalmente recomendado!  
+Escribe una conclusión final, si lo recomendarías o no, si cambiarías algo, etc.   
 
 #### [Tu nombre o apodo]

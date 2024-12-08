@@ -4,7 +4,7 @@
 <img src="../Imagenes/La serpiente y las alas de la noche.jpg" alt="La serpiente y las alas de la noche" width="100" />
 
 #### Reseña de Lucía   
-**Puntuación:** ⭐⭐⭐⭐ ☆ 
+**Puntuación:** ⭐⭐⭐⭐☆ 
 
 #### Resumen breve  
 Una sola vez cada cien años, se celebra el Kejari, el legendario torneo en honor a la diosa de la muerte, Nyaxia, que reúne a los vampiros de todos los rincones. En esta ocasión, sin embargo, hay una participante de lo más particular: una humana, Oraya, que además es la hija adoptiva del rey de los Nacidos de la Noche.

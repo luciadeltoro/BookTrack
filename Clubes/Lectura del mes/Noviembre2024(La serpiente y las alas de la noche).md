@@ -4,7 +4,7 @@
 - **Libro:** *La serpiente y las alas de la noche* - Carissa Broadbent
 - **Inicio:** 01/11/2024
 - **Discusión:** 01/12/2024
-<img src="../Imagenes/La serpiente y las alas de la noche.jpg" alt="La serpiente y las alas de la noche" width="100" />
+<img src="../../Imagenes/La serpiente y las alas de la noche.jpg" alt="La serpiente y las alas de la noche" width="100" />
 
 ---
 

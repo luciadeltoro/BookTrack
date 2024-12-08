@@ -30,7 +30,17 @@ Ejemplo:
 [Google](https://www.google.com)
 
 Imágenes:
-![Descripción](URL de la imagen)
+
+1. Si la imagen está en la misma carpeta que tu archivo .md:
+![Descripción de la imagen](imagen.png)
+Esto mostrará la imagen directamente en la página.
+
+2. Si la imagen está en una subcarpeta llamada imagenes:
+![Descripción de la imagen](imagenes/imagen.png)
+
+3. Puedes ajustar el tamaño de la imagen usando HTML dentro del Markdown:
+<img src="imagenes/imagen.png" alt="Descripción de la imagen" width="300" />
+Esto cambia el ancho de la imagen a 300 píxeles, manteniendo la proporción.
 
 Avanzado
 Tablas:
@@ -46,3 +56,4 @@ En línea: `código`
 
 Bloques de código:
 ```lenguaje
+

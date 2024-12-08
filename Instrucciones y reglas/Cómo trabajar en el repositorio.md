@@ -22,7 +22,9 @@ Dentro de tu carpeta personal debes crear los siguientes archivos:
    - Ejemplo: Si acabas de crear tu archivo `README.md`, el mensaje del commit podría ser:  
      `Creando README - [Tu Nombre]`  
    - Otro ejemplo: Si creas el archivo `Lecturas.md`, el mensaje sería algo como:  
-     `Añadiendo archivo Lecturas - [Tu Nombre]`.  
+     `Añadiendo archivo Lecturas - [Tu Nombre]`.
+   - Una vez realizado lo anterior clicamos Sync commit(sincronizar commit).
+
 
 2. **Haz una Pull Request (PR):**  
    Una Pull Request es una solicitud para que los cambios que has hecho en tu rama sean revisados y fusionados con la rama principal (`main`). 
@@ -34,6 +36,7 @@ Dentro de tu carpeta personal debes crear los siguientes archivos:
      - La **rama destino** (arriba) debe ser siempre `main`.  
      - Tu **rama personal** (abajo) es la que se está fusionando con la rama principal.
    - Sigue las instrucciones para crear la Pull Request.
+   - Si clicamos en `Update with merge commit` sincronizará todo lo que no tengas en tu repositorio.
 
 3. **Espera la aprobación:**  
    Una vez que hayas creado la Pull Request, tus cambios serán revisados y aceptados si cumplen los requisitos.

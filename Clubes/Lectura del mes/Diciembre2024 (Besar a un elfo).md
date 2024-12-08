@@ -3,7 +3,7 @@
 ## 🗓️ Lecturas Actuales
 - **Libro:** *Besar a un elfo* - Tamara Molina
 - **Inicio:** 01/12/2024
-- **Discusión:** 29/12/2024
+- **Discusión:** 01/01/2025
 
 ---
 

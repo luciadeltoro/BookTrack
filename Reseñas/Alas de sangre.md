@@ -3,6 +3,9 @@
 - **Género:** Fantasía, Romance
 - **Puntuación:** ⭐⭐⭐⭐⭐
 
+
+![Descripción]([URL de la imagen](https://www.google.com/search?sca_esv=64a609d90a359d40&q=alas+de+sangre&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd9L2WHVzAvhMQbvbuARNpGDn39DZN3FwukxdnB2WYtkzZjsUHwcgHnwVof16PCks2Afck1K7ExN_6vnHhZnIRNxSfxI3GzTaXqOzQP4pHlbedK85haswqY1U3tlWVqy7cuSruR9Xda07iBw-iLp2REgS8FhiPLhJBosx2tjekBEV3O4uSQ&sa=X&sqi=2&ved=2ahUKEwiwp7KU_ZiKAxWRB9sEHYJnIk0QtKgLegQIFRAB&biw=1280&bih=593&dpr=1.5#vhid=77Ex61D6AAqPqM&vssid=mosaic))
+
 #### Resumen Breve
 En un mundo donde los dragones y sus jinetes deciden el destino de reinos, Violet Sorrengail nunca quiso ser parte de este brutal sistema. Sin embargo, se ve forzada a entrar en la academia donde solo los más fuertes sobreviven. Entre alianzas peligrosas, secretos del pasado y un vínculo inesperado con un dragón legendario, Violet deberá aprender a luchar no solo por su vida, sino por un futuro lleno de incertidumbre y traición.
 

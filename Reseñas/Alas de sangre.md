@@ -1,10 +1,12 @@
 ### **Alas de Sangre** 
 - **Autor:** Rebecca Yarros
 - **Género:** Fantasía, Romance
-- **Puntuación:** ⭐⭐⭐⭐⭐
-
-
 <img src="../Imagenes/Alas de sangre.jpg" alt="Alas de sangre" width="100" />
+
+
+#### Reseña de Helen
+
+**Puntuación:** ⭐⭐⭐⭐⭐
 
 #### Resumen Breve
 En un mundo donde los dragones y sus jinetes deciden el destino de reinos, Violet Sorrengail nunca quiso ser parte de este brutal sistema. Sin embargo, se ve forzada a entrar en la academia donde solo los más fuertes sobreviven. Entre alianzas peligrosas, secretos del pasado y un vínculo inesperado con un dragón legendario, Violet deberá aprender a luchar no solo por su vida, sino por un futuro lleno de incertidumbre y traición.

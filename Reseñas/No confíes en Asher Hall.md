@@ -1,9 +1,10 @@
 ### **No confies en Asher Hall**
 - **Autor:** Myriam M. Lejardi
-- **Género:** Young Adult, Romance, Misterio
+- **Género:** Young Adult, Romance.
+<img src="../Imagenes/No confies en asher hall.jpg" alt="No confies en Asher Hall" width="100" />
 
 #### Reseña de Helen
-- **Puntuación:**  ⭐⭐⭐⭐☆
+**Puntuación:**  ⭐⭐⭐⭐☆
 
 #### Resumen Breve
 Esta novela cuenta la historia de Remi, una chica con una vida aparentemente tranquila que se ve envuelta en una relación inesperada con Asher Hall, un joven con un pasado oscuro y muchos secretos. A medida que Remi se adentra en su mundo, descubre que confiar en Asher podría cambiarlo todo, pero no sabe si será para bien o para mal.
@@ -20,7 +21,7 @@ Es un libro perfecto para quienes disfrutan del género Young Adult con un toque
 
 ---
 #### Reseña de Lucía
-- **Puntuación:**  ⭐⭐⭐
+**Puntuación:**  ⭐⭐⭐ ☆ ☆
 
 #### Resumen Breve
 La historia está centrada en un reality show llamado *Trickster* donde doce participantes compiten por un millón de dólares. Entre ellos están Remi, la protagonista, que necesita el dinero para salvar a su padre y Asher, que no es quien parece ser. Remi tendrá que decidir si puede o no confiar en Asher, aunque eso signifique perder el programa.

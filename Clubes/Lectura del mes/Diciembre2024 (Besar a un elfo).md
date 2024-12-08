@@ -4,7 +4,7 @@
 - **Libro:** *Besar a un elfo* - Tamara Molina
 - **Inicio:** 01/12/2024
 - **Discusión:** 01/01/2025
-
+<img src="../../Imagenes/Besar a un elfo.jpg" alt="Besar a un elfo" width="100" />
 ---
 
 ## 🗒️ Reuniones pasadas

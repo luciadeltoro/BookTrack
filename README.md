@@ -8,7 +8,7 @@
 2. Escribe el comando: `Shift ⇧ + Command ⌘ + P` (para Mac) / `Control + Shift ⇧ + P` (para Windows).
 3. Copia el siguiente comando y pégalo en la barra de búsqueda:
 ```bash
-git clone https://github.com/luciadeltoro/BookTrack.git 
+clone https://github.com/luciadeltoro/BookTrack.git 
 ```
 Para más información, consulta el archivo `Cómo trabajar en el repositorio` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 

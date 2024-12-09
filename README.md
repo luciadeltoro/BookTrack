@@ -10,6 +10,7 @@
 ```bash
 clone https://github.com/luciadeltoro/BookTrack.git 
 ```
+**Antes de empezar leer el archivo `Leeme`, ahí se explica cómo crear tu rama, es muy importante.** 
 Para más información, consulta el archivo `Cómo trabajar en el repositorio` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **¿Cómo puedo crearme un perfil?**  

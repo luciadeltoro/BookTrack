@@ -3,4 +3,4 @@
 - **Género:** Fantasía, Romance, Aventura  
 <img src="../Imagenes/Una corte de alas y ruina.jpg" alt="Una corte de alas y ruina" width="100" />
 
-#### Reseña de Helen [Una corte de Alas y Ruina](../Usuarios/Elena/Mis%20reseñas/Una%20corte%20de%20alas%20y%20ruina.md) — Sarah J. Maas 
+#### Reseña de Helen (../Usuarios/Elena/Mis%20reseñas/Una%20corte%20de%20alas%20y%20ruina.md) **Puntuación:** ⭐⭐⭐⭐⭐ 

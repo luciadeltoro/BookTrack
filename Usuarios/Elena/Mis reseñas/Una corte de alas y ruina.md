@@ -1,7 +1,7 @@
 ### **Una Corte de Alas y Ruina**  
 - **Autor:** Sarah J. Maas  
 - **Género:** Fantasía, Romance, Aventura  
-<img src="../Imagenes/Una corte de alas y ruina.jpg" alt="Una corte de alas y ruina" width="100" />
+<img src="/Imagenes/Una corte de alas y ruina.jpg" alt="Una corte de alas y ruina" width="100" />
  
 **Puntuación:** ⭐⭐⭐⭐⭐  
 
@@ -17,5 +17,5 @@ La batalla final es, sin duda, uno de los momentos más épicos de la saga. El s
 
 #### Conclusión  
 *Una Corte de Alas y Ruina* es un desenlace espectacular para la trilogía inicial de ACOTAR. Lo recomendaría a todos los fans de la fantasía épica que buscan una historia con personajes complejos, intrigas políticas y momentos desgarradores. Definitivamente es un libro que deja huella. 
-  
+
 #### Reseña de Helen

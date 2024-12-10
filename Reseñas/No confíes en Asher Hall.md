@@ -3,7 +3,7 @@
 - **Género:** Young Adult, Romance.
 <img src="../Imagenes/No confies en asher hall.jpg" alt="No confies en Asher Hall" width="100" />
 
-#### Reseña de Helen (../../BookTrack/Usuarios/Elena/Mis%20reseñas/No%20confies%20en%20Asher%20Hall.md) **Puntuación:**  ⭐⭐⭐⭐☆
+#### Reseña de Helen [No confies en Asher Hall](../../BookTrack/Usuarios/Elena/Mis%20reseñas/No%20confies%20en%20Asher%20Hall.md) **Puntuación:**  ⭐⭐⭐⭐☆
 
 #### Reseña de Lucía
 **Puntuación:**  ⭐⭐⭐ ☆ ☆

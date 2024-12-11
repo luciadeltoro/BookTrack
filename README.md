@@ -10,7 +10,6 @@
 ```bash
 clone https://github.com/luciadeltoro/BookTrack.git 
 ```
-
 # 🚀 Cómo crear tu propia rama en Visual Studio Code (VSCode)
 
 ### **1. Asegúrate de tener el repositorio abierto**
@@ -76,8 +75,8 @@ Si tienes instalada la extensión GitLens, puedes visualizar y administrar ramas
 
 ##### ¡Y listo! Ahora tienes tu propia rama creada directamente desde Visual Studio Code y puedes trabajar sin afectar la rama principal (main). 😊
 
-
-
+**Antes de empezar, leer el archivo `Leeme`, ahí se explica cómo crear tu rama, es muy importante.** 
+Para más información, consulta el archivo `Cómo trabajar en el repositorio` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
 **¿Cómo puedo crearme un perfil?**  
 Una vez hayas descargado el repositorio, deberás entrar en la carpeta `Usuarios` y crear una carpeta con tu nombre. Dentro de tu carpeta, crea un archivo `README.md` para modificar los datos tu perfil y otro archivo `Lecturas.md` para actualizar tus lecturas.

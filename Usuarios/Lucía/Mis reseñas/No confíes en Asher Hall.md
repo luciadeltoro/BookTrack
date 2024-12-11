@@ -3,7 +3,6 @@
 - **Género:** Young Adult, Romance.
 <img src="/Imagenes/No confies en asher hall.jpg" alt="No confies en Asher Hall" width="100" />
 
-#### Reseña de Lucía
 **Puntuación:**  ⭐⭐⭐ ☆ ☆
 
 #### Resumen Breve

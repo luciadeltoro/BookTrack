@@ -1,4 +1,4 @@
-<img src="../../Imagenes/Banner Un rincón en Velaris .png" alt="Banner club"/>
+<img src="../../Imagenes/Banner Un rincón en Velaris.png" alt="Banner club"/>
 
 ¡Bienvenido/a a nuestro mágico club de lectura! En **Un Rincón en Velaris**, nos reunimos para compartir nuestra pasión por los libros y viajar juntos a mundos extraordinarios a través de sus páginas.
 

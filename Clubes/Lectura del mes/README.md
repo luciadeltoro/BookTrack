@@ -8,7 +8,7 @@ Proponemos un libro para leer juntos durante el mes.
 
 Las lecturas son variadas: ficción, no ficción, clásicos y novedades editoriales.
 Participa en las discusiones:
-Cada participante puede compartir sus reflexiones, puntos destacados o dudas en los debates asignados a cada lectura.
+Cada participante puede compartir sus reflexiones, puntos destacados o dudas en los debates asignados a cada lectura en nuestro Discord.
 
 Resúmenes colaborativos:
 Al final del mes, se elabora un resumen grupal con las ideas principales y conclusiones sobre el libro.

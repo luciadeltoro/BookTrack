@@ -6,6 +6,8 @@
 - **Discusión:** 01/12/2024
 <img src="../../../Imagenes/La serpiente y las alas de la noche.jpg" alt="La serpiente y las alas de la noche" width="100" />
 
+- Reseña: [Ver reseña aquí](../../../Reseñas/La%20serpiente%20y%20las%20alas%20de%20la%20noche.md)
+- 
 ---
 
 ## 🗒️ Reuniones pasadas

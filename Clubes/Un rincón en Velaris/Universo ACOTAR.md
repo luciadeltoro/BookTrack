@@ -1,22 +1,51 @@
 # Club de Lectura: Un rincón en Velaris
 
 ## Lista de Libros
-1. *Una corte de rosas y espinas* - Sarah J. Maas
-2. *Una corte de niebla y furia* - Sarah J. Maas
-3. *Una corte de alas y ruina* - Sarah J. Maas
-4. *Una corte de hielo y estrellas* - Sarah J. Maas
-5. *Una corte de llamas plateadas* - Sarah J. Maas
+### Saga ACOTAR
+1. *Una corte de rosas y espinas* 
+2. *Una corte de niebla y furia* 
+3. *Una corte de alas y ruina* 
+4. *Una corte de hielo y estrellas* 
+5. *Una corte de llamas plateadas* 
 
+### Saga Trono de Cristal
+1. *Trono de Cristal* 
+2. *Corona de Medianoche* 
+3. *La Espada de la Asesina* 
+4. *Heredera de Fuego* 
+5. *Reina de Sombras* 
+6. *Imperio de Tormentas*
+7. *Torre del Alba*
+8. *Reino de Cenizas*
 
-## 💬 Discusión Actual  
+### Saga Ciudad Medialuna
+1. *Casa de tierra y sangre* 
+2. *Casa de cielo y aliento* 
+3. *Casa de llama y sombra* 
+
+---
+
+## 💬 Discusión actual  
 ### Tema: *¿Qué opinas sobre las hermanas de Feyre en "Una corte de rosas y espinas"? ¿Crees que esos personajes han evolucionado en los siguientes libros?*
 
-- **VelarisDreamer**: *"¡Elain me parece tan interesante! Aunque al principio parecía un personaje secundario sin mucho desarrollo, siento que en los libros posteriores su evolución es más sutil pero significativa. Espero que tenga un papel más importante en el futuro."*
+- **Elena**: ¡Elain me parece tan interesante! Aunque al principio parecía un personaje secundario sin mucho desarrollo, siento que en los libros posteriores su evolución es más sutil pero significativa. Espero que tenga un papel más importante en el futuro.
 
-- **NightCourtFan**: *"Creo que Nesta tuvo una de las evoluciones más profundas. Pasó de ser un personaje que muchos odiaban a alguien con una historia desgarradora y poderosa. Su arco de redención en *Una corte de llamas plateadas* es increíble."*
+- **Lucía**: Creo que Nesta tuvo una de las evoluciones más profundas. Pasó de ser un personaje que muchos odiaban a alguien con una historia desgarradora y poderosa. Su arco de redención en *Una corte de llamas plateadas* es increíble.
 
-- **StarfallLover**: *"Al principio me frustraban ambas, pero conforme avanzan los libros, empiezas a comprenderlas más. Creo que Sarah J. Maas hizo un gran trabajo mostrándonos sus defectos y fortalezas."*
 
-- **BookishFae**: *"Siento que Elain aún necesita más desarrollo. Tiene potencial, pero hasta ahora parece demasiado pasiva en comparación con Nesta o Feyre. ¡Quiero ver más de ella!"*
+---
 
-- **HighLady94**: *"Nesta definitivamente evolucionó muchísimo, pero también siento que Elain tiene algo oculto que aún no hemos descubierto. Ambas hermanas han crecido mucho, aunque a su propio ritmo."*
+## ⚔️ Reto temático
+*"El Legado de Velaris 🌌"*  
+El reto consiste en hacer lectura/relectura de los primeros 3 libros de la saca *ACOTAR*, pero con la condición de que solo tendrás un mes para leerlos. Si no lo consigues, habrás perdido el reto. ¡Corre, que el tiempo es oro! ⏳  
+  
+Comienzo del reto: 01/12/2024  
+Fin del reto: 31/12/2024  
+  
+🏆 Podio:
+- Primer puesto 🥇: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).
+- Segundo puesto 🥈: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).
+- Tercer puesto 🥉: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).  
+
+El próximo reto será *"El Trono de Terrasen 👑"*, próximamente desvelaremos más información.
+

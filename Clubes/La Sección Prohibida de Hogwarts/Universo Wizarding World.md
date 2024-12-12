@@ -16,6 +16,8 @@
 
 - **Elena**: Los peligros son parte de la magia del lugar. Sin ellos, la experiencia de los estudiantes no sería tan épica. ¡Voldemort no cuenta, claro!
 
+- **Gabri**: Creo que los peligros de Hogwarts están algo exagerados, pero también enseñan a los estudiantes a ser valientes y resolutivos.
+
 ## ⚡ Reto temático  
 *"La Magia de Hogwarts ✨"*  
 El reto consiste en hacer lectura/relectura de los primeros 3 libros de la saga *Harry Potter*, pero con la condición de que solo tendrás un mes para leerlos. Si no lo consigues, habrás perdido el reto. ¡Prepárate para tu aventura mágica! ⏳  

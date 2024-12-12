@@ -59,7 +59,7 @@ Si tienes instalada la extensión GitLens, puedes visualizar y administrar ramas
 
 ##### ¡Y listo! Ahora tienes tu propia rama creada directamente desde Visual Studio Code y puedes trabajar sin afectar la rama principal (main). 😊
 
-
+---
 
 # Instrucciones para crear tu carpeta y trabajar en el repositorio BookTrack
 

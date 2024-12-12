@@ -12,12 +12,21 @@
 ## Discusión Actual
 ### Tema: *¿Qué opinas sobre los peligros que hay en Hogwarts?*
 
-- **HermioneLectora**: *"Aunque los desafíos en Hogwarts son emocionantes, a veces me pregunto cómo alguien permite que un castillo lleno de adolescentes tenga un bosque prohibido y criaturas mágicas tan peligrosas tan cerca 😅."*
+- **Lucía**: *"Aunque los desafíos en Hogwarts son emocionantes, a veces me pregunto cómo alguien permite que un castillo lleno de adolescentes tenga un bosque prohibido y criaturas mágicas tan peligrosas tan cerca 😅."*
 
-- **FanDeSnape92**: *"Los peligros son parte de la magia del lugar. Sin ellos, la experiencia de los estudiantes no sería tan épica. ¡Voldemort no cuenta, claro!"*
+- **Elena**: *"Los peligros son parte de la magia del lugar. Sin ellos, la experiencia de los estudiantes no sería tan épica. ¡Voldemort no cuenta, claro!"*
 
-- **HogwartsForever**: *"Creo que los peligros de Hogwarts están algo exagerados, pero también enseñan a los estudiantes a ser valientes y resolutivos. ¡Aunque lo de un troll suelto en el baño no fue lo mejor!"*
+## ⚡ Reto temático  
+*"La Magia de Hogwarts ✨"*  
+El reto consiste en hacer lectura/relectura de los primeros 3 libros de la saga *Harry Potter*, pero con la condición de que solo tendrás un mes para leerlos. Si no lo consigues, habrás perdido el reto. ¡Prepárate para tu aventura mágica! ⏳  
 
-- **MagoOscuro_7**: *"¿Peligros? Yo lo llamo oportunidades para aprender. ¡No hay nada como enfrentar un boggart en una clase de Defensa Contra las Artes Oscuras!"*
+Comienzo del reto: 01/12/2024  
+Fin del reto: 31/12/2024  
 
-- **Lumos_Maxima**: *"Creo que Hogwarts tiene muchos peligros, pero también mucho aprendizaje. Es un lugar donde los jóvenes magos descubren lo mejor de ellos mismos... aunque un poco de regulación extra no estaría mal 🤔."*
+🏆 Podio:  
+- Primer puesto 🥇: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).  
+- Segundo puesto 🥈: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).  
+- Tercer puesto 🥉: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).  
+
+El próximo reto será *"Las Reliquias Perdidas 🪄"*, próximamente desvelaremos más información.
+

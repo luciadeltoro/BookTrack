@@ -2,16 +2,29 @@
 
 ## ✍️ Crear tu reseña
 1. **Selecciona la carpeta correcta:**  
-   - Navega hasta la carpeta de `Reseñas`.
    - Asegúrate siempre de estar en tu propia rama y no en la rama de otro usuario ni en `main`.
+   - Navega hasta la carpeta de `Usuarios`.
+   - Entra en tu carpeta y crea una nueva carpeta llamada `Mis reseñas` (o, si ya la tienes, entra en ella).
 
 2. **Crea un archivo para tu reseña:**  
-   - Haz clic en el botón `New File` dentro de la carpeta `Reseñas`.  
+   - Haz clic en el botón `New File` dentro de la carpeta `Mis reseñas`.  
    - Nombra el archivo con el formato: `Nombre del libro.md`.  
      > Ejemplo: Para el libro *La Paciente Silenciosa*, el archivo se llamará `La paciente silenciosa.md`.
 
 3. **Escribe tu reseña:**  
-   - Usa el formato de reseña que encontrarás en la carpeta `Plantillas`.    
+   - Usa el formato de reseña que encontrarás en la carpeta `Plantillas` dentro de la carpeta `Instrucciones y reglas`. 
+
+4. **Compartir tu reseña con otros usuarios**
+   - Si quieres que otros usuarios puedan ver tu reseña con solo un clic, deberás acceder a la carpeta `Reseñas` dentro del repositorio. Asegúrate primero de que el libro del que quieres hacer una reseña no tenga ya una entrada.  
+    
+   **Si el libro de tu reseña ya está en la carpeta**
+   - Accede al archivo y pon tu reseña justo debajo de la anterior siguiendo el siguiente formato:  
+   [Reseña de (tu nombre de usuario)](Inserta el enlace que lleve a tu reseña) — **Puntuación:** (Inserta la puntuación que hayas puesto, por ejemplo: ⭐⭐⭐⭐⭐) 
+   
+   **Si el libro de tu reseña no está en la carpeta**
+   - Deberás crear un archivo haciendo clic en el botón `New File` y nombra el archivo con el formato: `Nombre del libro.md`.
+   - Deberás poner la información de la reseña tal y como la tienes en tu propia reseña (Nombre del libro, nombre del autor, género, link de la imagen) y, justo debajo, añade un link a tu propia reseña usando el siguiente formato:
+   [Reseña de (tu nombre de usuario)](Inserta el enlace que lleve a tu reseña) — **Puntuación:** (Inserta la puntuación que hayas puesto, por ejemplo: ⭐⭐⭐⭐⭐) 
 
 ## 🚀 Subir tu reseña al repositorio
 1. **Realiza un commit:**  

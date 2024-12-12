@@ -16,9 +16,9 @@
 ## ✍️ Mis reseñas  
 | **Libro**              | **Puntuación** | **Fecha de la reseña** |
 |-------------------------|----------------|------------------------|
-| *Flawless*              | ⭐⭐⭐⭐          | 24/11/2024         |
-| *Una corte de alas y ruina*| ⭐⭐⭐⭐       | 21/10/2024          |
-| *La paciente silenciosa*| ⭐⭐⭐⭐         | 09/09/2024          |
+| [Flawlees](../../Reseñas/Flawlees.md)              | ⭐⭐⭐⭐☆         | 24/11/2024         |
+| [Una corte de alas y ruina](../../Reseñas/Una%20corte%20de%20alas%20y%20ruina.md)| ⭐⭐⭐⭐⭐         | 09/09/2024  | ⭐⭐⭐⭐⭐       | 21/10/2024          |
+| [La paciente silenciosa](../../Reseñas/La%20paciente%20silenciosa.md)| ⭐⭐⭐⭐⭐         | 09/09/2024          |
 
 ---
 

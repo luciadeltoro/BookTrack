@@ -28,3 +28,4 @@ Fin del reto: 31/12/2024
 - Segundo puesto 🥈: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).  
 - Tercer puesto 🥉: (Apunta aquí tu nombre si has completado el reto y no hay otra persona apuntada).  
 
+El próximo reto será *"Las Reliquias Perdidas 🪄"*, próximamente desvelaremos más información.

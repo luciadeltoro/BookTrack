@@ -16,9 +16,9 @@
 ## ✍️ Mis reseñas  
 | **Libro**              | **Puntuación** | **Fecha de la Reseña** |
 |-------------------------|----------------|------------------------|
-| *[Título del libro]*    | ⭐⭐⭐⭐          | [DD/MM/AAAA]          |
+| *[Título del libro]*    | ⭐⭐⭐⭐☆          | [DD/MM/AAAA]          |
 | *[Título del libro]*    | ⭐⭐⭐⭐⭐         | [DD/MM/AAAA]          |
-| *[Título del libro]*    | ⭐⭐⭐           | [DD/MM/AAAA]          |
+| *[Título del libro]*    | ⭐⭐⭐☆☆           | [DD/MM/AAAA]          |
 
 ---
 

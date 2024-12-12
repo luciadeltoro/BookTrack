@@ -1,7 +1,7 @@
 ### **Título del libro**  
 - **Autor:** Nombre del autor 
 - **Género:** Fantasía, Romance, Misterio, etc.  
-- **Puntuación:** [⭐], [⭐⭐], [⭐⭐⭐], [⭐⭐⭐⭐], [⭐⭐⭐⭐⭐]  
+- **Puntuación:** [⭐☆☆☆☆], [⭐⭐☆☆☆], [⭐⭐⭐☆☆], [⭐⭐⭐⭐☆], [⭐⭐⭐⭐⭐]  
 
 #### Resumen breve  
 Escribe un pequeño resumen sobre la trama del libro.

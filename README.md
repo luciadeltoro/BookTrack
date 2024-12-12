@@ -1,6 +1,6 @@
 <img src="Imagenes/Banner Booktrack.png" alt="Banner club"/>
 
-# BookTrack
+
 ​​¡Te damos la bienvenida a BookTrack! Un espacio pensado para que puedas registrar, organizar y compartir todo lo relacionado con los libros de tus géneros favoritos. Con BookTrack también podrás formar clubes de lectura en los que podrás intercambiar listas de libros y tener discusiones literarias con los miembros de la comunidad. 📚✨
 
 ---
@@ -40,13 +40,16 @@ Para más información, consulta el archivo `Cómo trabajar en el repositorio.md
 **¿Cómo creo una reseña?**  
 Encontrarás toda la información sobre cómo crear reseñas en el archivo `Cómo crear una reseña.md` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
 
+**¿Cómo añado una imagen de la portada del libro a mi reseña?**  
+Encontrarás toda la información sobre cómo subir y agregar imágenes a tus reseñas en el archivo `Cómo subir fotos.md` que encontrarás dentro de la carpeta `Instrucciones y reglas`.
+
 **¿Dónde encuentro las plantillas para crear mi perfil y para poner mis lecturas y reseñas?**  
 Las puedes encontrar dentro de la carpeta `Plantillas.md` que se encuentra en de la carpeta `Instrucciones y reglas`.
 
 **¿Tengo que pedir permiso para crear un nuevo club?**  
 No, puedes crearlo sin necesidad de pedir permiso. Antes de que tu club se añada al repositorio, será revisado por un moderador para confirmar que esté todo en orden. En caso de que haya algún problema, se rechazará la pull request explicando el por qué.  
 
-**¿Qué tengo que hacer para crear un club?**
+**¿Qué tengo que hacer para crear un club?**  
 Encontrarás toda la información sobre cómo crear un club en el archivo `Cómo crear un club de lectura.md` que encontrarás dentro de la carpeta `Instrucciones y reglas`.  
 
 **¿Qué es Markdown?**  

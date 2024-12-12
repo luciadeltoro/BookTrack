@@ -1,5 +1,5 @@
 # 🪄 La Sección Prohibida de Hogwarts 📚✨
-
+<img src="../../Imagenes/Banner La sección prohibida de Hogwarts.png" alt="Banner club" width="100"/>
 ## Bienvenidos al Club de Lectura
 **La Sección Prohibida de Hogwarts** es un club de lectura mágico para todos los apasionados de los libros, donde la imaginación no tiene límites y las historias cobran vida como si fueran hechizos. Aquí, exploraremos mundos literarios llenos de aventuras, misterios y magia.
 
